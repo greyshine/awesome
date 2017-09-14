@@ -56,7 +56,10 @@ Powerful. Easy-to-use. (Free.)
 - http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html
 
 ## How-To
+### Mac
 - [Cut and Paste with a Mac](http://osxdaily.com/2011/07/29/cut-and-paste-mac-os-x-lion/)
+### Unix
+- https://stackoverflow.com/questions/11621639/how-to-expand-relative-paths-in-shell-script
 
 ## Books
 - [Napoleon Hill - Think and grow rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich)
