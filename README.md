@@ -10,6 +10,8 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 - [Unix](#unix)
 - [Web-Development](#web-development)
 - [How-to](#how-to)
+- [Books](#books)
+- [Articles](#articles)
 - [Miscellaneous](#miscellaneous)
 
 ## Other lists
@@ -55,6 +57,12 @@ Powerful. Easy-to-use. (Free.)
 
 ## How-To
 - [Cut and Paste with a Mac](http://osxdaily.com/2011/07/29/cut-and-paste-mac-os-x-lion/)
+
+## Books
+- [Napoleon Hill - Think and grow rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich)
+
+## Articles
+- [A Crash Course on Funding Your Startup with Convertible Notes](https://medium.com/swlh/a-crash-course-on-funding-your-startup-with-convertible-notes-8429ba553627)
 
 ## Miscellaneous
 - https://serverless.com/ - Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
