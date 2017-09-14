@@ -12,6 +12,7 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 - [How-to](#how-to)
 - [Books](#books)
 - [Articles](#articles)
+- [Knowledge](#knowledge) 
 - [Miscellaneous](#miscellaneous)
 
 ## Other lists
@@ -43,7 +44,6 @@ Powerful. Easy-to-use. (Free.)
 - [rest-assured](https://github.com/rest-assured/rest-assured/wiki/Usage) - REST Api Testing
 - http://www.thymeleaf.org/ - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
 
-
 ## Unix
 - [https://help.ubuntu.com/community/SSH/OpenSSH/Keys]() - Server securing via SSH
 - http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html
@@ -64,6 +64,13 @@ Powerful. Easy-to-use. (Free.)
 ## Articles
 - [A Crash Course on Funding Your Startup with Convertible Notes](https://medium.com/swlh/a-crash-course-on-funding-your-startup-with-convertible-notes-8429ba553627)
 
+## Knowledge
+- [Cluster > Catalog > Schema > Table > Columns & Rows](https://stackoverflow.com/a/17943883/845117) - What's the difference between a catalog and a schema in a relational database?
+- [LocalDateTime, Instant and Timezone](https://stackoverflow.com/a/32443004/845117) - Java 8: What's the difference between Instant and LocalDateTime?
+
 ## Miscellaneous
 - https://serverless.com/ - Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
+- [Ansible](www.ansible.com) - Ansible is a radically simple IT automation engine that automates cloud provisioning, configuration management, application deployment, intra-service orchestration, and many other IT needs.
+- [Vagrant](https://www.vagrantup.com/) - Vagrant is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases production parity, and makes the "works on my machine" excuse a relic of the past.
+- [Heroku](https://www.heroku.com) - Heroku is a cloud platform based on a managed container system, with integrated data services and a powerful ecosystem, for deploying and running modern apps. The Heroku developer experience is an app-centric approach for software delivery, integrated with today’s most popular developer tools and workflows.                                                    
 
