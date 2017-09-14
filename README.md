@@ -9,6 +9,7 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 - [Java](#java)
 - [Unix](#unix)
 - [Web-Development](#web-development)
+- [How-to](#how-to)
 - [Miscellaneous](#miscellaneous)
 
 ## Other lists
@@ -35,7 +36,6 @@ Powerful. Easy-to-use. (Free.)
 ## Software Development
 - https://www.sourcetreeapp.com/ - Simplicity and power in a beautiful Git GUI
 
-
 ## Java
 - [mvnrepository](https://mvnrepository.com/) - maven references to libraries
 - [rest-assured](https://github.com/rest-assured/rest-assured/wiki/Usage) - REST Api Testing
@@ -53,5 +53,9 @@ Powerful. Easy-to-use. (Free.)
 - https://material.io/icons/ - Material icons are beautifully crafted, delightful, and easy to use in your web, Android, and iOS projects.
 - http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html
 
+## How-To
+- [Cut and Paste with a Mac](http://osxdaily.com/2011/07/29/cut-and-paste-mac-os-x-lion/)
+
 ## Miscellaneous
 - https://serverless.com/ - Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
+
