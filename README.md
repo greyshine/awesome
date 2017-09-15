@@ -12,7 +12,8 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 - [How-to](#how-to)
 - [Books](#books)
 - [Articles](#articles)
-- [Knowledge](#knowledge) 
+- [IT-Knowledge](#it-knowledge)
+- [Cryptocurrencies](cryptocurrencies)
 - [Miscellaneous](#miscellaneous)
 
 ## Other lists
@@ -67,9 +68,16 @@ Powerful. Easy-to-use. (Free.)
 ## Articles
 - [A Crash Course on Funding Your Startup with Convertible Notes](https://medium.com/swlh/a-crash-course-on-funding-your-startup-with-convertible-notes-8429ba553627)
 
-## Knowledge
+## IT-Knowledge
 - [Cluster > Catalog > Schema > Table > Columns & Rows](https://stackoverflow.com/a/17943883/845117) - What's the difference between a catalog and a schema in a relational database?
 - [LocalDateTime, Instant and Timezone](https://stackoverflow.com/a/32443004/845117) - Java 8: What's the difference between Instant and LocalDateTime?
+
+## Cryptocurrencies
+- https://coinmarketcap.com/#EUR
+- https://cryptocompare.com
+- https://blockchain.info/
+- https://www.youtube.com/user/julianhosp/videos
+- https://www.youtube.com/user/aantonop/videos
 
 ## Miscellaneous
 - https://serverless.com/ - Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
