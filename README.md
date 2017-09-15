@@ -71,6 +71,7 @@ Powerful. Easy-to-use. (Free.)
 ## IT-Knowledge
 - [Cluster > Catalog > Schema > Table > Columns & Rows](https://stackoverflow.com/a/17943883/845117) - What's the difference between a catalog and a schema in a relational database?
 - [LocalDateTime, Instant and Timezone](https://stackoverflow.com/a/32443004/845117) - Java 8: What's the difference between Instant and LocalDateTime?
+- [cutting strings in unix](https://stackoverflow.com/a/16154003/845117), [http://www.thegeekstuff.com/2010/07/bash-string-manipulation/]()
 
 ## Cryptocurrencies
 - https://coinmarketcap.com/#EUR
