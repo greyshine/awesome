@@ -3,7 +3,7 @@ My list of software, services, tutorials, resources, ...
 Inspired from: [https://github.com/sindresorhus/awesome]()
 
 ## Contents
-- [Other lists](#other-lists)
+- [Other awesome lists](#other-awesome-lists)
 - [Online-Services](#online-services)
 - [Software](#software)
 - [Java](#java)
@@ -16,7 +16,7 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 - [Cryptocurrencies](cryptocurrencies)
 - [Miscellaneous](#miscellaneous)
 
-## Other lists
+## Other awesome lists
 - https://github.com/search?q=awesome&type=Repositories
 - [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin/blob/master/README.md) - A curated list of amazingly awesome open source sysadmin resources.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome/blob/master/readme.md) - 😎 Curated list of awesome lists https://awesomeweekly.co
@@ -36,14 +36,26 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 - https://www.openproject.org/ - Open source project management software. 
 Powerful. Easy-to-use. (Free.)
 - https://www.atlassian.com/ - Collaboration for building products
+- [DBeaver](https://dbeaver.jkiss.org/) - Universal SQL Client; Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Derby, etc.
+- 
+
 
 ## Software Development
 - https://www.sourcetreeapp.com/ - Simplicity and power in a beautiful Git GUI
+- [Swagger](https://swagger.io/) - Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
+- [Flyway](https://flywaydb.org/) - Evolve your Database Schema easily and 
+reliably across all your instances.
+- 
 
 ## Java
 - [mvnrepository](https://mvnrepository.com/) - maven references to libraries
 - [rest-assured](https://github.com/rest-assured/rest-assured/wiki/Usage) - REST Api Testing
+- [citrusframework](http://www.citrusframework.org/) - Automated integration tests for message protocols and data formats!
+HTTP REST, JMS, TCP/IP, SOAP, FTP, SSH, XML, JSON and more!
 - http://www.thymeleaf.org/ - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
+- [Hamcrest](http://hamcrest.org/JavaHamcrest/) - Matchers that can be combined to create flexible expressions of intent.
+- [Hystrix](https://github.com/Netflix/Hystrix/blob/master/README.md) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+- 
 
 ## Unix
 - [https://help.ubuntu.com/community/SSH/OpenSSH/Keys]() - Server securing via SSH
@@ -66,9 +78,11 @@ Powerful. Easy-to-use. (Free.)
 
 ## Books
 - [Napoleon Hill - Think and grow rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich)
+- [Michael Nygard - Release It - Design and Deploy Production-Ready Software](https://www.amazon.de/Release-Design-Deploy-Production-Ready-Software/dp/1680502395)
 
 ## Articles
 - [A Crash Course on Funding Your Startup with Convertible Notes](https://medium.com/swlh/a-crash-course-on-funding-your-startup-with-convertible-notes-8429ba553627)
+- [Martin Fowler - Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) - Event Sourcing - Capture all changes to an application state as a sequence of events.
 
 ## IT-Knowledge
 - [Cluster > Catalog > Schema > Table > Columns & Rows](https://stackoverflow.com/a/17943883/845117) - What's the difference between a catalog and a schema in a relational database?
