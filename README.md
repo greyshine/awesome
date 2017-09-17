@@ -62,7 +62,7 @@ Powerful. Easy-to-use. (Free.)
 ### Unix
 - https://stackoverflow.com/questions/11621639/how-to-expand-relative-paths-in-shell-script
 - [Install Java8](https://wiki.ubuntuusers.de/Java/Installation/Oracle_Java/Java_8/)  
-  Also see: [](https://github.com/greyshine/awesome/blob/master/unix-hints.md#install-oracle-java8)
+  Also see: https://github.com/greyshine/awesome/blob/master/unix-hints.md#install-oracle-java8
 
 ## Books
 - [Napoleon Hill - Think and grow rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich)
