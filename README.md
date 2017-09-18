@@ -37,15 +37,12 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 Powerful. Easy-to-use. (Free.)
 - https://www.atlassian.com/ - Collaboration for building products
 - [DBeaver](https://dbeaver.jkiss.org/) - Universal SQL Client; Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Derby, etc.
-- 
-
 
 ## Software Development
 - https://www.sourcetreeapp.com/ - Simplicity and power in a beautiful Git GUI
 - [Swagger](https://swagger.io/) - Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 - [Flyway](https://flywaydb.org/) - Evolve your Database Schema easily and 
 reliably across all your instances.
-- 
 
 ## Java
 - [mvnrepository](https://mvnrepository.com/) - maven references to libraries
@@ -56,6 +53,8 @@ HTTP REST, JMS, TCP/IP, SOAP, FTP, SSH, XML, JSON and more!
 - [Hamcrest](http://hamcrest.org/JavaHamcrest/) - Matchers that can be combined to create flexible expressions of intent.
 - [Hystrix](https://github.com/Netflix/Hystrix/blob/master/README.md) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [cyclops-react](http://cyclops-react.io/) - A comprehensive functional reactive platform for Java 8. Cyclops-react provides advanced sequential and multi-threaded streaming, functional control structures & collection extensions.
+- [www.javasimon.org](http://www.javasimon.org) (https://github.com/virgo47/javasimon) - Java Simon is a simple monitoring API that allows you to follow and better understand your application.
+- [JAMon](http://jamonapi.sourceforge.net/) - The Java Application Monitor is a free, simple, high performance, thread safe, Java API that allows developers to easily monitor production applications.
 
 ## Unix
 - [https://help.ubuntu.com/community/SSH/OpenSSH/Keys]() - Server securing via SSH
