@@ -55,7 +55,7 @@ HTTP REST, JMS, TCP/IP, SOAP, FTP, SSH, XML, JSON and more!
 - http://www.thymeleaf.org/ - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
 - [Hamcrest](http://hamcrest.org/JavaHamcrest/) - Matchers that can be combined to create flexible expressions of intent.
 - [Hystrix](https://github.com/Netflix/Hystrix/blob/master/README.md) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
-- 
+- [cyclops-react](http://cyclops-react.io/) - A comprehensive functional reactive platform for Java 8. Cyclops-react provides advanced sequential and multi-threaded streaming, functional control structures & collection extensions.
 
 ## Unix
 - [https://help.ubuntu.com/community/SSH/OpenSSH/Keys]() - Server securing via SSH
@@ -88,6 +88,7 @@ HTTP REST, JMS, TCP/IP, SOAP, FTP, SSH, XML, JSON and more!
 - [Cluster > Catalog > Schema > Table > Columns & Rows](https://stackoverflow.com/a/17943883/845117) - What's the difference between a catalog and a schema in a relational database?
 - [LocalDateTime, Instant and Timezone](https://stackoverflow.com/a/32443004/845117) - Java 8: What's the difference between Instant and LocalDateTime?
 - [cutting strings in unix](https://stackoverflow.com/a/16154003/845117), [http://www.thegeekstuff.com/2010/07/bash-string-manipulation/]()
+- [rdafbn.blogspot.nl - completablefuture-vs-parallelstream](http://rdafbn.blogspot.nl/2015/07/completablefuture-vs-parallelstream.html)
 
 ## Cryptocurrencies
 - https://coinmarketcap.com/#EUR
