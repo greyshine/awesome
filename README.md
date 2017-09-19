@@ -59,7 +59,8 @@ HTTP REST, JMS, TCP/IP, SOAP, FTP, SSH, XML, JSON and more!
 ## Unix
 - [https://help.ubuntu.com/community/SSH/OpenSSH/Keys]() - Server securing via SSH
 - http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html
-- https://help.ubuntu.com/community/Fail2ban
+- [Fail2ban](https://help.ubuntu.com/community/Fail2ban) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs.
+- [Monit](https://mmonit.com/monit/) - Monit is a small Open Source utility for managing and monitoring Unix systems. Monit conducts automatic maintenance and repair and can execute meaningful causal actions in error situations.
 
 ## Web-Development
 - [https://purecss.io/](Pure.css) - A set of small, responsive CSS modules that you can use in every web project.
