@@ -67,6 +67,9 @@ HTTP REST, JMS, TCP/IP, SOAP, FTP, SSH, XML, JSON and more!
 - [Bootstrap](https://getbootstrap.com/) - Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
 - https://material.io/icons/ - Material icons are beautifully crafted, delightful, and easy to use in your web, Android, and iOS projects.
 - http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html
+- [raphael.js](http://dmitrybaranovskiy.github.io/raphael/) - Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. If you want to create your own specific chart or image crop and rotate widget, for example, you can achieve it simply and easily with this library.
+- [paper.js](http://paperjs.org/) - Paper.js is an open source vector graphics scripting framework that runs on top of the HTML5 Canvas. It offers a clean Scene Graph / Document Object Model and a lot of powerful functionality to create and work with vector graphics and bezier curves, all neatly wrapped up in a well designed, consistent and clean programming interface.
+- [d3.js](https://d3js.org/) - D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
 
 ## How-To
 ### Mac
