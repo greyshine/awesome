@@ -37,12 +37,17 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 Powerful. Easy-to-use. (Free.)
 - https://www.atlassian.com/ - Collaboration for building products
 - [DBeaver](https://dbeaver.jkiss.org/) - Universal SQL Client; Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Derby, etc.
+- http://www.metabase.com/ - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
+- http://rancher.com/ - Rancher is a complete container management platform that makes it easy to deploy and run containers in production on any infrastructure.
+- http://rundeck.org/ - Job scheduler and runbook automation. Turn your operations procedures into self-service jobs. Safely give others the control and visibility they need.
+- http://zeppelin.apache.org/ - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more. 
 
 ## Software Development
 - https://www.sourcetreeapp.com/ - Simplicity and power in a beautiful Git GUI
 - [Swagger](https://swagger.io/) - Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 - [Flyway](https://flywaydb.org/) - Evolve your Database Schema easily and 
 reliably across all your instances.
+
 
 ## Java
 - [mvnrepository](https://mvnrepository.com/) - maven references to libraries
@@ -106,7 +111,5 @@ HTTP REST, JMS, TCP/IP, SOAP, FTP, SSH, XML, JSON and more!
 - [Ansible](www.ansible.com) - Ansible is a radically simple IT automation engine that automates cloud provisioning, configuration management, application deployment, intra-service orchestration, and many other IT needs.
 - [Vagrant](https://www.vagrantup.com/) - Vagrant is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases production parity, and makes the "works on my machine" excuse a relic of the past.
 - [Heroku](https://www.heroku.com) - Heroku is a cloud platform based on a managed container system, with integrated data services and a powerful ecosystem, for deploying and running modern apps. The Heroku developer experience is an app-centric approach for software delivery, integrated with today’s most popular developer tools and workflows.    
-- http://rancher.com/ - Rancher is a complete container management platform that makes it easy to deploy and run containers in production on any infrastructure.
-- http://rundeck.org/ - Job scheduler and runbook automation. Turn your operations procedures into self-service jobs. Safely give others the control and visibility they need.
-- http://zeppelin.apache.org/ - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more. 
+
 
