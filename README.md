@@ -41,6 +41,7 @@ Powerful. Easy-to-use. (Free.)
 - http://rancher.com/ - Rancher is a complete container management platform that makes it easy to deploy and run containers in production on any infrastructure.
 - http://rundeck.org/ - Job scheduler and runbook automation. Turn your operations procedures into self-service jobs. Safely give others the control and visibility they need.
 - http://zeppelin.apache.org/ - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more. 
+- https://www.wawision.de/ - WaWi, ERP, CRM & sehr sehr viel mehr! WaWision ist die Software für die ganze Firma.
 
 ## Software Development
 - https://www.sourcetreeapp.com/ - Simplicity and power in a beautiful Git GUI
