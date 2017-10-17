@@ -107,6 +107,11 @@ HTTP REST, JMS, TCP/IP, SOAP, FTP, SSH, XML, JSON and more!
 - https://www.youtube.com/user/julianhosp/videos
 - https://www.youtube.com/user/aantonop/videos
 
+## MacOS Tools
+- https://github.com/Pyroh/Fluor - Fluor is a tool that allows you to automatically change the behaviour of the keyboard's fn keys depending on the active application.
+- [Copy'em Paste](http://www.apprywhere.com/copy-em-paste.html) - Best-in-class clipboard manager
+- [BetterSnapTool](https://itunes.apple.com/de/app/bettersnaptool/id417375580) - BetterSnapTool allows you to easily manage your window positions and sizes by either dragging them to one of the screen's corners or to the top, left or right side of the screen. This enables you to easily maximize your windows, position them side by side or even resize them to quarters of the screen.
+
 ## Miscellaneous
 - https://serverless.com/ - Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
 - [Ansible](www.ansible.com) - Ansible is a radically simple IT automation engine that automates cloud provisioning, configuration management, application deployment, intra-service orchestration, and many other IT needs.
