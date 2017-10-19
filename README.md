@@ -34,7 +34,7 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 - https://mailinabox.email/ - email server
 - https://github.com/tomav/docker-mailserver - ready setup email server as docker container
 - https://www.openproject.org/ - Open source project management software. 
-Powerful. Easy-to-use. (Free.)
+  Powerful. Easy-to-use. (Free.)
 - https://www.atlassian.com/ - Collaboration for building products
 - [DBeaver](https://dbeaver.jkiss.org/) - Universal SQL Client; Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Derby, etc.
 - http://www.metabase.com/ - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
@@ -47,14 +47,14 @@ Powerful. Easy-to-use. (Free.)
 - https://www.sourcetreeapp.com/ - Simplicity and power in a beautiful Git GUI
 - [Swagger](https://swagger.io/) - Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 - [Flyway](https://flywaydb.org/) - Evolve your Database Schema easily and 
-reliably across all your instances.
+  reliably across all your instances.
 
 
 ## Java
 - [mvnrepository](https://mvnrepository.com/) - maven references to libraries
 - [rest-assured](https://github.com/rest-assured/rest-assured/wiki/Usage) - REST Api Testing
 - [citrusframework](http://www.citrusframework.org/) - Automated integration tests for message protocols and data formats!
-HTTP REST, JMS, TCP/IP, SOAP, FTP, SSH, XML, JSON and more!
+  HTTP REST, JMS, TCP/IP, SOAP, FTP, SSH, XML, JSON and more!
 - http://www.thymeleaf.org/ - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
 - [Hamcrest](http://hamcrest.org/JavaHamcrest/) - Matchers that can be combined to create flexible expressions of intent.
 - [Hystrix](https://github.com/Netflix/Hystrix/blob/master/README.md) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
@@ -81,6 +81,7 @@ HTTP REST, JMS, TCP/IP, SOAP, FTP, SSH, XML, JSON and more!
 ## How-To
 ### Mac
 - [Cut and Paste with a Mac](http://osxdaily.com/2011/07/29/cut-and-paste-mac-os-x-lion/)
+- [Solve the ALT+SPACE problem](https://apple.stackexchange.com/a/34673/236511) - Having weired CSS compilation effects on an HTML page, running into ````No command ' grep' found, but there are 16 similar…```` problems when running ````ls -la | grep sth```` ? - It most likely deals with pressing SPACE and ALT at the sametime which will produce SPACE lookalike wich is not a space. This link shows how to disable SPACE+ALT pressing.
 ### Unix
 - https://stackoverflow.com/questions/11621639/how-to-expand-relative-paths-in-shell-script
 - [Install Java8](https://wiki.ubuntuusers.de/Java/Installation/Oracle_Java/Java_8/)  
