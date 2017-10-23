@@ -86,6 +86,7 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 - https://stackoverflow.com/questions/11621639/how-to-expand-relative-paths-in-shell-script
 - [Install Java8](https://wiki.ubuntuusers.de/Java/Installation/Oracle_Java/Java_8/)  
   Also see: https://github.com/greyshine/awesome/blob/master/unix-hints.md#install-oracle-java8
+- cli-tool [ncdu](https://dev.yorhel.nl/ncdu) - Ncdu is a disk usage analyzer with an ncurses interface. It is designed to find space hogs on a remote server where you don't have an entire graphical setup available, but it is a useful tool even on regular desktop systems. Ncdu aims to be fast, simple and easy to use, and should be able to run in any minimal POSIX-like environment with ncurses installed.
 
 ## Books
 - [Napoleon Hill - Think and grow rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich)
@@ -109,6 +110,7 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 - https://www.youtube.com/user/aantonop/videos
 
 ## MacOS Tools
+- Reddit: [List of OS X tools everyone needs to know about](https://www.reddit.com/r/osx/comments/4hmgeh/list_of_os_x_tools_everyone_needs_to_know_about/)
 - https://github.com/Pyroh/Fluor - Fluor is a tool that allows you to automatically change the behaviour of the keyboard's fn keys depending on the active application.
 - [Copy'em Paste](http://www.apprywhere.com/copy-em-paste.html) - Best-in-class clipboard manager
 - [BetterSnapTool](https://itunes.apple.com/de/app/bettersnaptool/id417375580) - BetterSnapTool allows you to easily manage your window positions and sizes by either dragging them to one of the screen's corners or to the top, left or right side of the screen. This enables you to easily maximize your windows, position them side by side or even resize them to quarters of the screen.

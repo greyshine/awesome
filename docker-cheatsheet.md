@@ -38,11 +38,15 @@ _-p <OUTSIDE_PORT>:<INSIDE_CONTAINER>_	port mapping
 _-v <OUTSIDE_FILE>:<INSIDE_CONTAINER>_	volume mapping
 ​									https://docs.docker.com/engine/reference/run/#volume-shared-filesystems
 
-### Logs of running a container
+### Logs of a running a container
 
 ````
 docker logs <container ID>
 ````
+
+### Log into a running container
+
+````docker exec -ti <CONTAINER> /bin/bash````
 
 ### Stop container
 
@@ -50,4 +54,18 @@ docker logs <container ID>
 
 OPTIONS:
 ````--time, -t```` default 10, Seconds to wait for stop before killing it
+
+
+
+### Export Container
+
+_I guess stopping it before exporting is a good idea._
+
+````docker export [OPTIONS] CONTAINER````
+
+OPTIONS:
+
+````--output, -o```` Write to a file, instead of STDOUT
+
+
 
