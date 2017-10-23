@@ -28,6 +28,8 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 - [https://rasterbator.net]() splitting 1 picture into several pages for printing - Wall Art Generator
 - [https://www.online-handelsregister.de/]()
 - https://www.invoiceninja.com/ - Invoicing online
+- https://thenounproject.com - Icons...; Creating, Sharing and Celebrating the World’s Visual Language.
+- https://unsplash.com/ - Beautiful, free photos. Gifted by the world’s most generous community of photographers. 🎁
 
 ## Software
 - https://www.zimbra.com/ - email server, email client, calendar, ...
