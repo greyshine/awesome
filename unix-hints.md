@@ -1,5 +1,11 @@
 # Unix-Hints
 
+## find _my friend I never can remember_
+
+````find <folder> [options] <test> <action>````
+
+e.g.: ````find / -name "*.xml"```` find all xmls beginning from root folder and list only.
+
 ## See version of OS
 
 ````$> lsb_release -a````
@@ -13,7 +19,6 @@
   `apt-get install libc6-i386`
 
 HowTo: https://gist.github.com/greyshine/bae891fb14a4ee45767f2af8e75422de
-
 
 
 ## Streams
@@ -30,25 +35,15 @@ HowTo: https://gist.github.com/greyshine/bae891fb14a4ee45767f2af8e75422de
 
 _further readings: [https://unix.stackexchange.com/a/70971/191027](https://unix.stackexchange.com/a/70971/191027)_
 
-##stream stderr to stdout
+###stream stderr to stdout
 
-````
-2>&1
-````
-
-
-
+````2>&1````
 ### stream to DEV0
 
-````
-$> echo nada > /dev/null
-````
+````$> echo nada > /dev/null````
 
 
-
-
-
-# Uptime and Serverload
+## Uptime and Serverload
 
 ````
 $> uptime
@@ -58,12 +53,11 @@ $> uptime
 The *uptime* utility displays the current time, the length of time the system has been up, the number of users, and the load average of the system over the last 1, 5, and 15 minutes.
 
 
-
 ## basedir of executing script
 
 Echos the current directory.
 
-````
+````shell
 BASEDIR=$(dirname "$0")
 echo $BASEDIR
 ````
@@ -84,7 +78,7 @@ _Date parsing and formatting: [http://www.computerhope.com/](http://www.computer
 
 ### Substring begin to; e.g. extract text until first space
 
-````
+````shell
 sed 's/\s.*$//'
 grep -o '^\S*'
 awk '{print $1}'
@@ -94,21 +88,39 @@ _https://unix.stackexchange.com/a/98985/191027_
 
 
 
+## Pass on call argumnets
+
+$# - Anzahl der Argumente
+
+````shell
+#!/bin/sh
+echo This is all of the arguments with any number: $*
+echo This is the amount of passed arguments: $#
+echo This is the first argument: $1
+echo This is the file name of this executing script: $0
+echo This is the directory name of the file name of this executing script: $(dirname $0)
+
+````
+
+
+
+## ln -s // Symlinking
+
+````ln -s {/path/to/file-name} {link-name}````
+
+
+
+## directory of current executing script
+
+````THIS_DIR=$(dirname $0)````
+
+
+
 
 
 ## from my Evernote cheatsheet
 
 _everything from here on until the end of the document is intended to be refactored into nice sections above this one…_
-
-
-
-pass on all arguments in script
-
-for example: java -cp thejar.jar some.Main $*
-
-$# - Anzahl der Argumente
-
-Load average:
 
 \> uptime
 
@@ -116,7 +128,7 @@ Load average:
 
 find
 
-```
+```shell
 find Startverzeichnis [Optionen] Test Aktion
 ```
 
@@ -161,23 +173,6 @@ ln -s {/path/to/file-name} {link-name}
 hard links can only reference files, no directories.
 
 hard links cannot cross reference over mounted drives
-
-Redirect Error Stream
-
-- stderr2stdout
-   someCommand 2>&1
-- stderr2dev0
-   someCommand 2> /dev/null
-- stdout2dev0
-   someCommand 1> /dev/null
-- stdout,stderr2dev0
-   someCommand 1> /dev/null 2> /dev/null
-
-basically redirecting:
-
-- err to dev0
-   2>/dev/null
-- 2>&1
 
 Write call result into variable
 

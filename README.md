@@ -54,15 +54,33 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 
 ## Java
 - [mvnrepository](https://mvnrepository.com/) - maven references to libraries
+
 - [rest-assured](https://github.com/rest-assured/rest-assured/wiki/Usage) - REST Api Testing
+
 - [citrusframework](http://www.citrusframework.org/) - Automated integration tests for message protocols and data formats!
   HTTP REST, JMS, TCP/IP, SOAP, FTP, SSH, XML, JSON and more!
+
 - http://www.thymeleaf.org/ - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
+
 - [Hamcrest](http://hamcrest.org/JavaHamcrest/) - Matchers that can be combined to create flexible expressions of intent.
+
 - [Hystrix](https://github.com/Netflix/Hystrix/blob/master/README.md) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+
 - [cyclops-react](http://cyclops-react.io/) - A comprehensive functional reactive platform for Java 8. Cyclops-react provides advanced sequential and multi-threaded streaming, functional control structures & collection extensions.
+
 - [www.javasimon.org](http://www.javasimon.org) (https://github.com/virgo47/javasimon) - Java Simon is a simple monitoring API that allows you to follow and better understand your application.
+
 - [JAMon](http://jamonapi.sourceforge.net/) - The Java Application Monitor is a free, simple, high performance, thread safe, Java API that allows developers to easily monitor production applications.
+
+- https://openliberty.io/ - Build cloud-native apps and microservices while running only what you need. Open Liberty is the most flexible server runtime available to JavaTM developers in this solar system.
+
+  _Nice additional article: https://dzone.com/articles/openlibertyio-java-ee-microservices-done-right_
+
+- https://ee.kumuluz.com/ - A lightweight open-source microservice framework. Develop microservices with Java EEtechnologies. Migrate existing Java EE applications to microservices and cloud-native architecture. KumuluzEE is compliant with MicroProfile 1.1 specification.
+
+  KumuluzEE has won the prestigious 2015 Java Duke's Choice Award.
+
+- ​
 
 ## Unix
 - [https://help.ubuntu.com/community/SSH/OpenSSH/Keys]() - Server securing via SSH
