@@ -80,7 +80,7 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 
   KumuluzEE has won the prestigious 2015 Java Duke's Choice Award.
 
-- ​
+- https://gatling.io/ - Open-Source Load & Performance Testing Tool For Web Applications
 
 ## Unix
 - [https://help.ubuntu.com/community/SSH/OpenSSH/Keys]() - Server securing via SSH
@@ -121,6 +121,7 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 - [LocalDateTime, Instant and Timezone](https://stackoverflow.com/a/32443004/845117) - Java 8: What's the difference between Instant and LocalDateTime?
 - [cutting strings in unix](https://stackoverflow.com/a/16154003/845117), [http://www.thegeekstuff.com/2010/07/bash-string-manipulation/]()
 - [rdafbn.blogspot.nl - completablefuture-vs-parallelstream](http://rdafbn.blogspot.nl/2015/07/completablefuture-vs-parallelstream.html)
+- http://www.cronmaker.com/ - CronMaker is a utility which helps you to build cron expressions. CronMaker uses [Quartz](http://www.quartz-scheduler.org/) open source scheduler. Generated expressions are based on [Quartz ](http://www.quartz-scheduler.org/)cron format.
 
 ## Cryptocurrencies
 - https://coinmarketcap.com/#EUR

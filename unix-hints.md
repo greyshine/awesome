@@ -1,6 +1,6 @@
 # Unix-Hints
 
-## find _my friend I never can remember_
+## find - _my friend which I never can remember_
 
 ````find <folder> [options] <test> <action>````
 
@@ -74,6 +74,15 @@ _Date parsing and formatting: [http://www.computerhope.com/](http://www.computer
 
 
 
+## Execute command and continue even if it failed
+
+````shell
+cd /notexisting |:
+echo still running
+````
+
+the ````|:```` successfully executes the left part or the right part. since _something OR true_ result in _true_ it will always continue.
+
 ## String handling
 
 ### Substring begin to; e.g. extract text until first space
@@ -88,7 +97,7 @@ _https://unix.stackexchange.com/a/98985/191027_
 
 
 
-## Pass on call argumnets
+## The $-argument group
 
 $# - Anzahl der Argumente
 
@@ -99,24 +108,53 @@ echo This is the amount of passed arguments: $#
 echo This is the first argument: $1
 echo This is the file name of this executing script: $0
 echo This is the directory name of the file name of this executing script: $(dirname $0)
-
+echo This shows the last exit status: $?
+echo some background executed echoing to nirvana > /dev/null &
+echo This shows the process id of the last background started process: $!
 ````
+
+
+
+### Check if a specific argument is given
+
+example taken from: https://stackoverflow.com/a/28263100/845117
+
+````shell
+for i in "$@" ; do
+    if [[ $i == "value1" ]] ; then
+        echo "value 1 is set!"
+        break
+    fi
+done
+````
+
+
 
 
 
 ## ln -s // Symlinking
 
-````ln -s {/path/to/file-name} {link-name}````
+````shell
+ln -s {/path/to/file-name} {link-name}
+````
 
 
 
 ## directory of current executing script
 
-````THIS_DIR=$(dirname $0)````
+````shell
+THIS_DIR=$(dirname $0)
+````
 
 
 
+## Regenerating a public key from id_rsa
 
+https://stackoverflow.com/a/38924652/845117
+````shell
+ssh-keygen -y -f ~/.ssh/id_rsa > ~/.ssh/id_rsa.pub
+````
+O-Ton: The -y option is the command teling ssh-keygen to output your public key.
 
 ## from my Evernote cheatsheet
 
@@ -207,4 +245,8 @@ File test operators
 are you a folder, are you a file?
 
 <http://tldp.org/LDP/abs/html/fto.html>
+
+
+
+
 
