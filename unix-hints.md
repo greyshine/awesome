@@ -123,7 +123,7 @@ example taken from: https://stackoverflow.com/a/28263100/845117
 for i in "$@" ; do
     if [[ $i == "value1" ]] ; then
         echo "value 1 is set!"
-        break
+        # break
     fi
 done
 ````

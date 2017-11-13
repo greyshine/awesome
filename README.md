@@ -8,6 +8,7 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 - [Software](#software)
 - [Java](#java)
 - [Unix](#unix)
+- [Database](#database)
 - [Web-Development](#web-development)
 - [How-to](#how-to)
 - [Books](#books)
@@ -18,11 +19,18 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 
 ## Other awesome lists
 - https://github.com/search?q=awesome&type=Repositories
+
 - [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin/blob/master/README.md) - A curated list of amazingly awesome open source sysadmin resources.
+
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome/blob/master/readme.md) - 😎 Curated list of awesome lists https://awesomeweekly.co
+
 - [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted/blob/master/README.md) - Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
+
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet/blob/master/README.md)
+
 - [JustServerless/awesome-serverless](https://github.com/JustServerless/awesome-serverless/blob/master/README.md)
+
+- t3n.de: [Tool-Check: 6 Flow-Charts für dein nächstes Projekt](http://t3n.de/news/flow-charts-tools-686782/) - german article introducing flow chart tools and services
 
 ## Online-Services
 - [https://rasterbator.net]() splitting 1 picture into several pages for printing - Wall Art Generator
@@ -35,10 +43,8 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 - https://www.zimbra.com/ - email server, email client, calendar, ...
 - https://mailinabox.email/ - email server
 - https://github.com/tomav/docker-mailserver - ready setup email server as docker container
-- https://www.openproject.org/ - Open source project management software. 
-  Powerful. Easy-to-use. (Free.)
+- https://www.openproject.org/ - Open source project management software.  Powerful. Easy-to-use. (Free.)
 - https://www.atlassian.com/ - Collaboration for building products
-- [DBeaver](https://dbeaver.jkiss.org/) - Universal SQL Client; Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Derby, etc.
 - http://www.metabase.com/ - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
 - http://rancher.com/ - Rancher is a complete container management platform that makes it easy to deploy and run containers in production on any infrastructure.
 - http://rundeck.org/ - Job scheduler and runbook automation. Turn your operations procedures into self-service jobs. Safely give others the control and visibility they need.
@@ -87,6 +93,12 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 - http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html
 - [Fail2ban](https://help.ubuntu.com/community/Fail2ban) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs.
 - [Monit](https://mmonit.com/monit/) - Monit is a small Open Source utility for managing and monitoring Unix systems. Monit conducts automatic maintenance and repair and can execute meaningful causal actions in error situations.
+
+## Database
+- https://dbeaver.jkiss.org/ - Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.
+- http://www.liquibase.org/ - Source control for your database. Helps with changes in your database
+- https://flywaydb.org/ - Evolve your Database Schema easily and reliably across all your instances
+
 
 ## Web-Development
 - [https://purecss.io/](Pure.css) - A set of small, responsive CSS modules that you can use in every web project.
