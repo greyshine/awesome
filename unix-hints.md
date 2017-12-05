@@ -66,9 +66,9 @@ echo $BASEDIR
 
 ## Timestamp
 
-timestamp=$(date +"%Y%m%d%H%M%S")
+````timestamp=$(date +"%Y%m%d%H%M%S")````
 
-timestamp=$(date +"%Y-%m-%d_%H:%M:%S")
+````timestamp=$(date +"%Y-%m-%d_%H:%M:%S")````
 
 _Date parsing and formatting: [http://www.computerhope.com/](http://www.computerhope.com/unix/udate.htm)[unix](http://www.computerhope.com/unix/udate.htm)[/udate.htm](http://www.computerhope.com/unix/udate.htm)_
 
@@ -77,11 +77,13 @@ _Date parsing and formatting: [http://www.computerhope.com/](http://www.computer
 ## Execute command and continue even if it failed
 
 ````shell
-cd /notexisting |:
+cd /notexisting ||:
 echo still running
 ````
 
-the ````|:```` successfully executes the left part or the right part. since _something OR true_ result in _true_ it will always continue.
+the ````||:```` successfully executes the left part or the right part. since _something OR true_ result in _true_ it will always continue.
+
+WATCH: only writing ````|:```` pipes the previous command into the ````: ```` command.
 
 ## String handling
 
@@ -126,6 +128,23 @@ for i in "$@" ; do
         # break
     fi
 done
+````
+
+
+
+### Check if e.g. $1 argument exist
+
+https://askubuntu.com/a/444089/608206
+
+````shell
+if [ ! -z "$1" ] ; then
+	echo \$1 is given
+fi
+
+if [ -z "$1" ] ; then
+	echo \$1 is missing
+fi
+
 ````
 
 

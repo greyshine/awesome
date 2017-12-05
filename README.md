@@ -80,6 +80,8 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 
 - https://openliberty.io/ - Build cloud-native apps and microservices while running only what you need. Open Liberty is the most flexible server runtime available to JavaTM developers in this solar system.
 
+- http://mapstruct.org - Java bean mappings, the easy way! MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach. The generated mapping code uses plain method invocations and thus is fast, type-safe and easy to understand. 
+
   _Nice additional article: https://dzone.com/articles/openlibertyio-java-ee-microservices-done-right_
 
 - https://ee.kumuluz.com/ - A lightweight open-source microservice framework. Develop microservices with Java EEtechnologies. Migrate existing Java EE applications to microservices and cloud-native architecture. KumuluzEE is compliant with MicroProfile 1.1 specification.
@@ -109,6 +111,8 @@ Inspired from: [https://github.com/sindresorhus/awesome]()
 - [paper.js](http://paperjs.org/) - Paper.js is an open source vector graphics scripting framework that runs on top of the HTML5 Canvas. It offers a clean Scene Graph / Document Object Model and a lot of powerful functionality to create and work with vector graphics and bezier curves, all neatly wrapped up in a well designed, consistent and clean programming interface.
 - [d3.js](https://d3js.org/) - D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals - Template literals are string literals allowing embedded expressions. You can use multi-line strings and string interpolation features with them. They were called "template strings" in prior editions of the ES2015 specification. (see also https://ponyfoo.com/articles/es6-template-strings-in-depth)
+- https://html5up.net/ - makes spiffy HTML5 site templates that are: Fully Responsive, Built on intelligent HTML5 + CSS3, Super Customizable and 100% Free under the Creative Commons  
+_found on http://t3n.de/news/css-html5-templates-quellen-605578/_ 
 
 ## How-To
 ### Mac

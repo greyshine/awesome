@@ -28,3 +28,28 @@ docker run --name somename \
 You need/must/ought/have to have a space after the **\\**, don't you?
 
 And there is other issues, isn't there?
+
+
+
+## Dates on articles
+
+The older I get, the older the internet gets, the more I miss dates on articles.
+I need a date to put information into context.
+As we all learn on a time axis our learnings derive from knowledge of the past.
+When searching and evaluating new knowledge in the internet aka self educating I want a fast idea of what is "the state of art" right now. 
+
+
+
+## Angular2 on Ubuntu
+
+_...and the whole node universe sucks!_
+
+- there is a difference bwtween node and nodes terminal commands.
+
+- they could both yield to a nodejs but have different versions wehen trying ````node -v```` or ````nodejs -v````
+
+  there could be different version when executing as root, as sudo, or as user.
+
+- npm install fails to access, download, read some artefacts but on e.g. macos it just works.
+
+  ​
