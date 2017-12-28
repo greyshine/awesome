@@ -1,5 +1,28 @@
 # GIT Cheatsheet
 
+
+
+List all branches local:
+
+````git branch````
+
+and remote:
+
+`git branch -a`
+
+
+
+Checkout / Switch to another branch:
+
+````git checkout master ````
+````git checkout develop````
+````git checkout feature-branch````
+````git checkout hotfix-branch````
+
+
+
+
+
 ## Difference origin/master origin/HEAD
 
 https://stackoverflow.com/questions/8196544/what-are-the-git-concepts-of-head-master-origin
