@@ -1,6 +1,6 @@
 # Awesome
 My list of software, services, tutorials, resources, ...  
-Inspired from: [https://github.com/sindresorhus/awesome]()
+Inspired from: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
 ## Contents
 - [Other awesome lists](#other-awesome-lists)
