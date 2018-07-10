@@ -90,6 +90,8 @@ Inspired from: [https://github.com/sindresorhus/awesome](https://github.com/sind
 
 - https://gatling.io/ - Open-Source Load & Performance Testing Tool For Web Applications
 
+- https://www.jooq.org/ - jOOQ generates Java code from your database and lets you build type safe SQL queries through its fluent API.
+
 ## Unix
 - [https://help.ubuntu.com/community/SSH/OpenSSH/Keys]() - Server securing via SSH
 - http://blog.endpoint.com/2015/11/favourite-unix-command-line-tools.html
