@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 # Awesome
 My list of software, services, tutorials, resources, ...  
 Inspired from: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
