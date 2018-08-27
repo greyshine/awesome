@@ -59,6 +59,9 @@ Inspired from: [https://github.com/sindresorhus/awesome](https://github.com/sind
 - [Flyway](https://flywaydb.org/) - Evolve your Database Schema easily and 
   reliably across all your instances.
 
+## Security
+- https://www.vaultproject.io/ - Key management system (referenced by https://developer.atlassian.com/blog/2016/06/common-dockerfile-mistakes/ 'Storing Secrets')
+- https://square.github.io/keywhiz/ - Key management system (referenced by https://developer.atlassian.com/blog/2016/06/common-dockerfile-mistakes/ 'Storing Secrets')
 
 ## Java
 - [mvnrepository](https://mvnrepository.com/) - maven references to libraries
