@@ -120,6 +120,8 @@ Inspired from: [https://github.com/sindresorhus/awesome](https://github.com/sind
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals - Template literals are string literals allowing embedded expressions. You can use multi-line strings and string interpolation features with them. They were called "template strings" in prior editions of the ES2015 specification. (see also https://ponyfoo.com/articles/es6-template-strings-in-depth)
 - https://html5up.net/ - makes spiffy HTML5 site templates that are: Fully Responsive, Built on intelligent HTML5 + CSS3, Super Customizable and 100% Free under the Creative Commons  
 _found on http://t3n.de/news/css-html5-templates-quellen-605578/_ 
+- https://www.openstreetmap.org/ - map.google.com pendant
+- https://leafletjs.com/ - library to embed openstreetmap maps into webpages
 
 ## How-To
 ### Mac
