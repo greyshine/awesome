@@ -118,10 +118,12 @@ Inspired from: [https://github.com/sindresorhus/awesome](https://github.com/sind
 - [paper.js](http://paperjs.org/) - Paper.js is an open source vector graphics scripting framework that runs on top of the HTML5 Canvas. It offers a clean Scene Graph / Document Object Model and a lot of powerful functionality to create and work with vector graphics and bezier curves, all neatly wrapped up in a well designed, consistent and clean programming interface.
 - [d3.js](https://d3js.org/) - D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals - Template literals are string literals allowing embedded expressions. You can use multi-line strings and string interpolation features with them. They were called "template strings" in prior editions of the ES2015 specification. (see also https://ponyfoo.com/articles/es6-template-strings-in-depth)
-- https://html5up.net/ - makes spiffy HTML5 site templates that are: Fully Responsive, Built on intelligent HTML5 + CSS3, Super Customizable and 100% Free under the Creative Commons  
+- [html5up.net](https://html5up.net) - makes spiffy HTML5 site templates that are: Fully Responsive, Built on intelligent HTML5 + CSS3, Super Customizable and 100% Free under the Creative Commons  
 _found on http://t3n.de/news/css-html5-templates-quellen-605578/_ 
-- https://www.openstreetmap.org/ - map.google.com pendant
-- https://leafletjs.com/ - library to embed openstreetmap maps into webpages
+- [www.openstreetmap.org](https://www.openstreetmap.org) - map.google.com pendant
+- [leafletjs.com](https://leafletjs.com) - library to embed openstreetmap maps into webpages
+- [Postman](https://www.getpostman.com) - The Collaboration Platform for API Development  
+  REST request testing
 
 ## How-To
 ### Mac
