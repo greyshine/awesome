@@ -124,6 +124,7 @@ _found on http://t3n.de/news/css-html5-templates-quellen-605578/_
 - [leafletjs.com](https://leafletjs.com) - library to embed openstreetmap maps into webpages
 - [Postman](https://www.getpostman.com) - The Collaboration Platform for API Development  
   REST request testing
+- [FakeSMTP](http://nilhcem.com/FakeSMTP/) - FakeSMTP is a Free Fake SMTP Server with GUI for testing emails in applications easily.
 
 ## How-To
 ### Mac
