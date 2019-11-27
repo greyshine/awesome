@@ -104,7 +104,7 @@ Inspired from: [https://github.com/sindresorhus/awesome](https://github.com/sind
 - [Monit](https://mmonit.com/monit/) - Monit is a small Open Source utility for managing and monitoring Unix systems. Monit conducts automatic maintenance and repair and can execute meaningful causal actions in error situations.
 
 ## Database
-- https://dbeaver.jkiss.org/ - Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.
+- https://dbeaver.io/ - Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.
 - http://www.liquibase.org/ - Source control for your database. Helps with changes in your database
 - https://flywaydb.org/ - Evolve your Database Schema easily and reliably across all your instances
 
