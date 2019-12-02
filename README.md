@@ -59,6 +59,7 @@ Inspired from: [https://github.com/sindresorhus/awesome](https://github.com/sind
 - [Swagger](https://swagger.io/) - Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
 - [Flyway](https://flywaydb.org/) - Evolve your Database Schema easily and 
   reliably across all your instances.
+- https://scs-architecture.org/ - Assembling software from indeppendaent systems
 
 ## Security
 - https://www.vaultproject.io/ - Key management system (referenced by https://developer.atlassian.com/blog/2016/06/common-dockerfile-mistakes/ 'Storing Secrets')
