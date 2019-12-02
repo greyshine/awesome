@@ -5,7 +5,6 @@ My list of software, services, tutorials, resources, ...
 Inspired from: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
 ## Contents
-- [Other awesome lists](#other-awesome-lists)
 - [Online-Services](#online-services)
 - [Software](#software)
 - [Java](#java)
@@ -18,21 +17,7 @@ Inspired from: [https://github.com/sindresorhus/awesome](https://github.com/sind
 - [IT-Knowledge](#it-knowledge)
 - [Cryptocurrencies](cryptocurrencies)
 - [Miscellaneous](#miscellaneous)
-
-## Other awesome lists
-- https://github.com/search?q=awesome&type=Repositories
-
-- [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin/blob/master/README.md) - A curated list of amazingly awesome open source sysadmin resources.
-
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome/blob/master/readme.md) - 😎 Curated list of awesome lists https://awesomeweekly.co
-
-- [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted/blob/master/README.md) - Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
-
-- [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet/blob/master/README.md)
-
-- [JustServerless/awesome-serverless](https://github.com/JustServerless/awesome-serverless/blob/master/README.md)
-
-- t3n.de: [Tool-Check: 6 Flow-Charts für dein nächstes Projekt](http://t3n.de/news/flow-charts-tools-686782/) - german article introducing flow chart tools and services
+- [Other awesome lists](#other-awesome-lists)
 
 ## Online-Services
 - [https://compressor.io]() - Compressor.io is a powerful online tool for reducing drastically the size of your images and photos whilst maintaining a high quality with almost no difference before and after compression.
@@ -176,3 +161,13 @@ _found on http://t3n.de/news/css-html5-templates-quellen-605578/_
 - http://benjaminmayo.co.uk/watch-all-the-apple-tv-aerial-video-screensavers - Watch All The Apple TV Aerial Video Screensavers
 - https://ionicframework.com/ - We help developers build and deploy cross-platform apps. From open source to premium services, Ionic makes app creation lightning fast.
 - https://www.keycloak.org/ - Open Source Identity and Access Management for Modern Applications and Services
+
+## Other awesome lists
+- https://github.com/search?q=awesome&type=Repositories
+
+- [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin/blob/master/README.md) - A curated list of amazingly awesome open source sysadmin resources.
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome/blob/master/readme.md) - 😎 Curated list of awesome lists https://awesomeweekly.co
+- [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted/blob/master/README.md) - Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
+- [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet/blob/master/README.md)
+- [JustServerless/awesome-serverless](https://github.com/JustServerless/awesome-serverless/blob/master/README.md)
+- t3n.de: [Tool-Check: 6 Flow-Charts für dein nächstes Projekt](http://t3n.de/news/flow-charts-tools-686782/) - german article introducing flow chart tools and services
