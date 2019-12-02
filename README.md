@@ -35,6 +35,7 @@ Inspired from: [https://github.com/sindresorhus/awesome](https://github.com/sind
 - t3n.de: [Tool-Check: 6 Flow-Charts für dein nächstes Projekt](http://t3n.de/news/flow-charts-tools-686782/) - german article introducing flow chart tools and services
 
 ## Online-Services
+- [https://compressor.io]() - Compressor.io is a powerful online tool for reducing drastically the size of your images and photos whilst maintaining a high quality with almost no difference before and after compression.
 - [https://rasterbator.net]() splitting 1 picture into several pages for printing - Wall Art Generator
 - [https://www.online-handelsregister.de/]()
 - https://www.invoiceninja.com/ - Invoicing online
@@ -110,6 +111,7 @@ Inspired from: [https://github.com/sindresorhus/awesome](https://github.com/sind
 
 
 ## Web-Development
+- [FakeSMTP](http://nilhcem.com/FakeSMTP/) - FakeSMTP is a Free Fake SMTP Server with GUI for testing emails in applications easily.
 - [https://purecss.io/](Pure.css) - A set of small, responsive CSS modules that you can use in every web project.
 - [Bootstrap](https://getbootstrap.com/) - Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
 - https://material.io/icons/ - Material icons are beautifully crafted, delightful, and easy to use in your web, Android, and iOS projects.
@@ -124,7 +126,6 @@ _found on http://t3n.de/news/css-html5-templates-quellen-605578/_
 - [leafletjs.com](https://leafletjs.com) - library to embed openstreetmap maps into webpages
 - [Postman](https://www.getpostman.com) - The Collaboration Platform for API Development  
   REST request testing
-- [FakeSMTP](http://nilhcem.com/FakeSMTP/) - FakeSMTP is a Free Fake SMTP Server with GUI for testing emails in applications easily.
 
 ## How-To
 ### Mac
