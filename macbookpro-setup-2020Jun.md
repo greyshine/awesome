@@ -4,6 +4,10 @@ List of todos reagrding settings and installations due to getting a new Macbook 
 
 ## MacOs Settings 
 
+- Scrollbars always visible
+- 
+- Amphetamine
+
 ## Software
 
 - Clipboard Manager
@@ -11,8 +15,11 @@ List of todos reagrding settings and installations due to getting a new Macbook 
 - Signal
 - Spotify
 - LibreOffice
+- Evernote
 - Eclipse
 - IntelliJ
 - Evernote
+
+- Doxie
 
 
