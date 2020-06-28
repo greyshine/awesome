@@ -14,6 +14,8 @@ Also see:
 ## Software
 - [Chromium](https://www.chromium.org/getting-involved/dev-channel) Chromium Browser
 - [Firefox](https://www.mozilla.org/de/firefox/new/)
+- VLC
+- Skype
 - [Fluro](https://fluorapp.net/) F-Key management
 - [Alfred](https://www.alfredapp.com/)
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704)
@@ -22,13 +24,17 @@ Also see:
 - [New File Menu](https://apps.apple.com/us/app/new-file-menu/id1064959555)
 - [Better Snap Tool](https://apps.apple.com/us/app/bettersnaptool/id417375580)
 - [Send to Kindle](https://www.amazon.com/gp/sendtokindle/mac)
-
 - [WhatsApp](https://www.whatsapp.com/download/)
 - [Signal](https://www.signal.org/en/download/)
 - [Spotify](https://www.spotify.com/de/download/mac/)
+- Google Play Music
 - [LibreOffice](https://www.libreoffice.org/download/download/)
 - [Evernote](https://evernote.com/intl/de/download)
 - [Helium](https://apps.apple.com/us/app/helium/id1054607607) Floating medium browser window.
+- Microsoft Office
+- [Burn](https://burn-osx.sourceforge.io/Pages/English/home.html) Burn CDs.
+- [Gimp](https://www.gimp.org/downloads/) Gnu Image Manipulation Program
+
 
 ## Software more Specialized
 - [Doxie](https://help.getdoxie.com/doxiego/)
@@ -37,8 +43,12 @@ Also see:
 - [Xee³](https://apps.apple.com/us/app/xee-image-viewer-and-browser/id639764244)
 - [XLD](https://sourceforge.net/projects/xld/) A tool for transcoding lossless audio files
 - [Audacity](https://www.audacityteam.org/Download/mac/) Audio multi-tracker
+- [Kid3](https://kid3.kde.org/) MP3 Tagging
 - [VNC Viewer](https://www.realvnc.com/de/connect/download/viewer/)
 - [WISO Steuer](https://www.buhl.de/shop/produkte/wiso-steuer-mac)
+- [MediathekView](https://download.mediathekview.de/stabil/)
+- [Voice Memos](https://apps.apple.com/us/app/voice-memos)
+
 
 
 ## Software for programming
@@ -49,7 +59,9 @@ Also see:
 - [Docker](https://www.docker.com/get-started)
 - [VirtualBox](https://www.virtualbox.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-
+- Cyberduck
+- https://www.teamviewer.com/en/download/mac-os/
+- 
 
 
 _...and don't foget: https://www.youtube.com/watch?v=ue2-ZVxpVjc_
