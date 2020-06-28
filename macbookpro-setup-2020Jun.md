@@ -11,12 +11,12 @@ Also see:
 - 
 - Scrollbars always visible
 
-
 ## Software
-- [https://fluorapp.net/](Fluor) - F-Key management
+- [https://fluorapp.net/](Fluor) F-Key management
 - Alfred
 - Amphetamine
 - [https://apprywhere.com/copy-em-paste.html](Copy'em Paste) Clipboard Manager
+- CommandQ
 
 - Whatsapp
 - Signal
@@ -27,7 +27,10 @@ Also see:
 ## Software more Specialized
 - Doxie
 - Google Earth (Pro)
-- 
+- Xee3
+- XLD 
+- WISO
+- Audacity
 
 ## Software for programming
 
@@ -35,7 +38,8 @@ Also see:
 - IntelliJ
 - [https://dbeaver.io/download/](DBeaver)
 - [https://www.docker.com/get-started](Docker)
-- 
+- Virtual Box
+
 
 
 _...and don't foget: https://www.youtube.com/watch?v=ue2-ZVxpVjc_
