@@ -63,6 +63,11 @@ Also see:
 - https://www.teamviewer.com/en/download/mac-os/
 - 
 
+## Setups
+- [https://gearsofgeek.com/how-to-set-up-time-machine-on-synology/]() Time Machine Backup with Synology NAS
+- [Google Backup and Sync](https://www.google.com/intl/en-GB_ALL/drive/download/backup-and-sync/) Google Drive MacOs integration
+
+
 
 _...and don't foget: https://www.youtube.com/watch?v=ue2-ZVxpVjc_
 
