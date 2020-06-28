@@ -18,7 +18,7 @@ Also see:
 - [Alfred](https://www.alfredapp.com/)
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704)
 - [Copy'em Paste](https://apprywhere.com/copy-em-paste.html) Clipboard Manager
-- [CommandQ](https://commandqapp.com/
+- [CommandQ](https://commandqapp.com/)
 - [New File Menu](https://apps.apple.com/us/app/new-file-menu/id1064959555)
 - [Better Snap Tool](https://apps.apple.com/us/app/bettersnaptool/id417375580)
 - [Send to Kindle](https://www.amazon.com/gp/sendtokindle/mac)
