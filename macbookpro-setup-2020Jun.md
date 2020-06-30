@@ -12,6 +12,7 @@ Also see:
 - Update OS!
 - 
 - Scrollbars always visible
+- [Organize Menu Bar 1](https://www.macworld.com/article/3103602/end-the-clutter-how-to-organize-your-mac-menu-bar.html), [Organize Menu Bar 2](https://www.macrumors.com/how-to/rearrange-macos-menu-bar-icons/)
 
 ## Software
 - [Chrome](https://www.google.com/intl/en_en/chrome/) <img src="https://www.google.com/chrome/static/images/chrome-logo.svg" height="20"/>
