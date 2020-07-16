@@ -55,7 +55,7 @@ Also see:
 - [WISO Steuer](https://www.buhl.de/shop/produkte/wiso-steuer-mac)
 - [MediathekView](https://download.mediathekview.de/stabil/)
 - [Voice Memos](https://apps.apple.com/us/app/voice-memos)
-- [Screensaver](https://www.chip.de/downloads/Aerial-Screen-Saver-Apple-TV-Bildschirmschoner-fuer-macOS_84835867.html)
+- [Screensaver](https://github.com/JohnCoates/Aerial/blob/master/Readme.md)
 
 
 
