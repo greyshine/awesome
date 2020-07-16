@@ -5,6 +5,7 @@ List of todos reagrding settings and installations due to getting a new Macbook 
 Also see:
 - https://www.youtube.com/watch?v=cIJJ6FaqKVM
 - https://www.macworld.com/article/2990355/free-os-x-apps-every-mac-user-should-have.html
+- https://www.youtube.com/watch?v=OiSVlCfpXFQ
 
 
 ## MacOs Settings 
@@ -42,6 +43,8 @@ Also see:
 - [Itsycal](https://www.mowglii.com/itsycal/) Statusbar calendar and watch
 - [Onyx](https://www.titanium-software.fr/en/onyx.html) 
 - [Duplicate File Finder Remover](https://apps.apple.com/us/app/duplicate-file-finder-best-fast-free-for-files/id1032755628)
+- [Annotate](https://apps.apple.com/de/app/annotate-capture-and-share/id918207447) Annotate (formerly know as Glui) is the simplest way to capture, annotate and share screenshots.
+- [Vanilla](https://matthewpalmer.net/vanilla/) Hide menu bar icons on your Mac.
 
 ## Software more Specialized
 - [Doxie](https://help.getdoxie.com/doxiego/)
