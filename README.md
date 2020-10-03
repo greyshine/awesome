@@ -15,7 +15,8 @@ Inspired from: [https://github.com/sindresorhus/awesome](https://github.com/sind
 - [Books](#books)
 - [Articles](#articles)
 - [IT-Knowledge](#it-knowledge)
-- [Cryptocurrencies](cryptocurrencies)
+- [Cryptocurrencies](#cryptocurrencies)
+- [MacOS Tools](#MacOS-Tools)
 - [Miscellaneous](#miscellaneous)
 - [Other awesome lists](#other-awesome-lists)
 
@@ -145,7 +146,7 @@ _found on http://t3n.de/news/css-html5-templates-quellen-605578/_
 - https://www.youtube.com/user/julianhosp/videos
 - https://www.youtube.com/user/aantonop/videos
 
-## MacOS Tools
+## MacOS-Tools
 - Reddit: [List of OS X tools everyone needs to know about](https://www.reddit.com/r/osx/comments/4hmgeh/list_of_os_x_tools_everyone_needs_to_know_about/)
 - https://github.com/Pyroh/Fluor - Fluor is a tool that allows you to automatically change the behaviour of the keyboard's fn keys depending on the active application.
 - [Copy'em Paste](http://www.apprywhere.com/copy-em-paste.html) - Best-in-class clipboard manager
