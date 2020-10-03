@@ -150,6 +150,7 @@ _found on http://t3n.de/news/css-html5-templates-quellen-605578/_
 - https://github.com/Pyroh/Fluor - Fluor is a tool that allows you to automatically change the behaviour of the keyboard's fn keys depending on the active application.
 - [Copy'em Paste](http://www.apprywhere.com/copy-em-paste.html) - Best-in-class clipboard manager
 - [BetterSnapTool](https://itunes.apple.com/de/app/bettersnaptool/id417375580) - BetterSnapTool allows you to easily manage your window positions and sizes by either dragging them to one of the screen's corners or to the top, left or right side of the screen. This enables you to easily maximize your windows, position them side by side or even resize them to quarters of the screen.
+- [XLD](https://sourceforge.net/projects/xld/) - X Lossless Decoder(XLD) is a tool for Mac OS X that is able to decode/convert/play various 'lossless' audio files. The supported audio files can be split into some tracks with cue sheet when decoding.
 
 ## Miscellaneous
 - https://serverless.com/ - Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
