@@ -164,6 +164,7 @@ _found on http://t3n.de/news/css-html5-templates-quellen-605578/_
 - http://benjaminmayo.co.uk/watch-all-the-apple-tv-aerial-video-screensavers - Watch All The Apple TV Aerial Video Screensavers
 - https://ionicframework.com/ - We help developers build and deploy cross-platform apps. From open source to premium services, Ionic makes app creation lightning fast.
 - https://www.keycloak.org/ - Open Source Identity and Access Management for Modern Applications and Services
+- https://www.brandcrowd.com/logo-maker - Logomaker
 
 ## Other awesome lists
 - https://github.com/search?q=awesome&type=Repositories
